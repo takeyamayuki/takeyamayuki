@@ -18,54 +18,56 @@ Here are some ideas to get you started:
 ![github stats](https://github-readme-stats.vercel.app/api?username=takeyamayuki)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeyamayuki)](https://github.com/anuraghazra/github-readme-stats)  
 
-## 自己紹介
-### 武山侑輝（たけやま ゆうき）- Yuki Takeyama  
-技術全般好きな大学生です(Arduino, KiCad, Pythonあたりが得意です)
+## Self Introduction
+### 武山侑輝 - Yuki Takeyama  
+I'm a university student who likes technology in general (I'm good at Arduino, KiCad, Python).
 
-## 経歴、表彰
-* `2012-04` 茨城県立並木中等教育学校 入学
-* `2016-09` 千葉大学 第10回高校生理科研究発表会 優秀賞 
-* `2017-03` ロボカップジュニアサッカーライトウェイト2017中津川オープン５位  
-* `2018-03` 茨城県立並木中等教育学校 卒業  
-* `2019-04` 青山学院大学 理工学部 電気電子工学科入学
-* `2019-09` 富士通インターン参加   
-* `2021-06` 青山学院大学 理工学部 電気電子工学科 学部３年    
+## Career and awards
+* `2012-04` Admission to Ibaraki Prefectural Namiki Secondary Education School
+* `2016-09` Awarded the Excellence Prize at the 10th High School Science Research Presentation by Chiba University 
+* `2017-03` RoboCup Junior Soccer Lightweights 2017 Nakatsugawa Open 5th place  
+* `2018-03` Graduated from Namiki Secondary School in Ibaraki Prefecture  
+* `2019-04` Entered Aoyama Gakuin University (Department of Electrical and Electronic Engineering, Faculty of Science and Technology)
+* `2019-09` Participated in Fujitsu internship   
+* `2021-06` Aoyama Gakuin University, Faculty of Science and Engineering, Department of Electrical and Electronic Engineering, Faculty of Science and Technology, 3 years    
 
-## プロジェクト
-* **ロボカップジュニア**    
-２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて、高校２年生のときに全国５位。チームは２人で運営。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて回路、基板を設計開発。  
+## Projects
+* **RoboCupJunior**    
+When I was a sophomore in high school, we placed fifth in the nation in the RoboCup Junior Soccer Tournament, a soccer match between two fully autonomous robots.　　 The team is managed by two people. I mainly design mechanisms using 123Ddesign, and design and develop circuits and boards using KiCad and bsch3v.  
 →[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg), [note](https://note.com/spinach_egg/n/n5938fe6f424b), [GitHub](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_PCB)  
   <img src="https://user-images.githubusercontent.com/22733958/126577854-11db00ce-e076-48a0-ace8-57b6481a140b.JPG" width="500">
 <!--　![0894](https://user-images.githubusercontent.com/22733958/126577854-11db00ce-e076-48a0-ace8-57b6481a140b.JPG)-->
 
 
 * **NonMouse**    
-Webカメラを用いて、手の骨格を認識することで実体のないマウスの開発に成功。  
+Succeeded in developing a disembodied mouse by recognizing the skeleton of the hand using a web camera.  
 →[github](https://github.com/takeyamayuki/NonMouse2), [youtube](https://youtu.be/ufvOJUTCF8M)  
 
 
-* **シューティングゲーム**  
-レーザーでCdSセンサーの的を撃つと、パソコン上で点数がカウントされ、順位表に表示するシステムを、文化祭のため構築。３人で作っていて、自分は回路設計、はんだ付けを担当。2人目がファームウェア、3人目が、パソコン上でのアプリ開発を担当。  
+* **Shooting Game**  
+For the school festival, we built a system that you shoot a CdS sensor target with a laser, and the score is counted on the computer and displayed on the ranking list.  
+I was in charge of the circuit design and soldering, the second person was in charge of the firmware, and the third person was in charge of developing the application on the computer.  
 
 
-* **競技プログラミング**  
-C++, Pythonを用いてAtcoderに出場。現在、灰色  
+* **Competitive Programming**  
+I compete in Atcoder using C++, Python. Currently ranked gray.  
 
-* **その他**  
-学習リモコン、シンセサイザー、ファイルサーバー、倒立振子などの製作。
+* **etc**  
+Building learning remote controls, synthesizers, file servers, inverted pendulums, etc.  
+Posting videos on Youtube (making things, programming, posting my own songs, etc.)
 
-## 開発環境、ツール、使用機材
-* 使用言語: C/C++, Python, Markdown, (MATLAB)  
+## Development environment, tools, and equipment
+* Programming languages: C/C++, Python, Markdown, (MATLAB)  
 * OS: MacOS, Ubuntu, Windows, RaspberrypiOS  
-* エディタ: VScode, nano, vim  
-* ツール: Arduino, Git/GitHub, ROS, MPLAB IDE, STM32CubeIDE  
-* 基板設計CAD: Fritzing, KiCad, PasS, bsch3v  
+* Editors: VScode, nano, vim  
+* Tools: Arduino, Git/GitHub, ROS, MPLAB IDE, STM32CubeIDE  
+* PCBCAD: Fritzing, KiCad, PasS, bsch3v  
 * 3DCAD: Fusion360, (123Ddesign)      
-* 使用機材: 安定化電源, オシロスコープ, 3Dプリンター
+* Equipment: Stabilized Power Supply, Oscilloscope, 3D Printer
 
 
-## 作曲
-SoundCloud、Youtubeで自分で作った曲を投稿。  
+## Composition
+Posted my own songs on [SoundCloud](https://soundcloud.com/takeyamadesu) and [Youtube](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg).  
 * 「[日体大コールをNCS風にRemixしてみたwww](https://www.youtube.com/watch?v=4RMUM_g9-A8)」がYoutube上で現在1.4万再生  
 * 「[にわとりがNCS風のEDMを歌い出しました](https://youtu.be/6ET-LOTNuJA)」という題名で、ニワトリの鳴き声を用いて、EDMを製作。さらに、映像もblenderを用いて製作。
 * 「[パフェいわしをNCS風にRemixしてみたwww (feat.きりたん)](https://youtu.be/u1lYUsXILzE)」という題名で、ぱふぇいわしをEDMアレンジ
