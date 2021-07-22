@@ -41,7 +41,7 @@ For the school festival, we built a system that you shoot a CdS sensor target wi
 * **Competitive Programming**  
 I compete in Atcoder using C++, Python. Currently ranked gray.  
 
-* **etc**
+* **etc**  
 I built learning remote controls, synthesizers, file servers, inverted pendulums, etc. I posted videos on Youtube (making things, programming, my own songs, etc.)
 
 ## Development environment, tools, and equipment
