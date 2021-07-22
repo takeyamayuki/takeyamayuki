@@ -12,7 +12,8 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=takeyamayuki)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeyamayuki)](https://github.com/anuraghazra/github-readme-stats)  
 
-## Yuki Takeyama - 武山侑輝   
+## Self Introduction
+### Yuki Takeyama - 武山侑輝   
 I'm a college student who likes technology in general, music, and video editing. (I'm good at Arduino, KiCad, Python).
 
 ## Career and Awards
