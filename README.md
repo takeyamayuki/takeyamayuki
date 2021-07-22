@@ -27,8 +27,7 @@ I'm a college student who likes technology in general, music, and video editing.
 
 ## Projects
 * **RoboCupJunior**    
-When I was a sophomore in high school, we placed fifth in the nation in the RoboCup Junior Soccer Tournament, a soccer match between two fully autonomous robots.  
-The team is managed by two people. I mainly design mechanisms using 123Ddesign, and design and develop circuits and boards using KiCad and bsch3v.  
+When I was a sophomore in high school, we placed fifth in the nation in the RoboCup Junior Soccer Tournament, a soccer match between two fully autonomous robots. The team is managed by two people. I mainly design mechanisms using 123Ddesign, and design and develop circuits and boards using KiCad and bsch3v.  
 →[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg), [note](https://note.com/spinach_egg/n/n5938fe6f424b), [GitHub](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_PCB)  
   <img src="https://user-images.githubusercontent.com/22733958/126577854-11db00ce-e076-48a0-ace8-57b6481a140b.JPG" width="500">
 
@@ -37,15 +36,13 @@ Succeeded in developing a disembodied mouse by recognizing the skeleton of the h
 →[github](https://github.com/takeyamayuki/NonMouse2), [youtube](https://youtu.be/ufvOJUTCF8M)  
 
 * **Shooting Game**  
-For the school festival, we built a system that you shoot a CdS sensor target with a laser, and the score is counted on the computer and displayed on the ranking list.  
-I was in charge of the circuit design and soldering, the others were in charge of the firmware, and developing the application on the computer.  
+For the school festival, we built a system that you shoot a CdS sensor target with a laser, and the score is counted on the computer and displayed on the ranking list. I was in charge of the circuit design and soldering, the others were in charge of the firmware, and developing the application on the computer.  
 
 * **Competitive Programming**  
 I compete in Atcoder using C++, Python. Currently ranked gray.  
 
 * **etc**
-  * Building learning remote controls, synthesizers, file servers, inverted pendulums, etc.  
-  * Posting videos on Youtube (making things, programming, posting my own songs, etc.)
+I built learning remote controls, synthesizers, file servers, inverted pendulums, etc. I posted videos on Youtube (making things, programming, my own songs, etc.)
 
 ## Development environment, tools, and equipment
 * Programming languages: C/C++, Python, Markdown, (MATLAB)  
