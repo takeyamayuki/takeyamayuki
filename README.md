@@ -38,19 +38,15 @@ Succeeded in developing a disembodied mouse by recognizing the skeleton of the h
 
 * **Shooting Game**  
 For the school festival, we built a system that you shoot a CdS sensor target with a laser, and the score is counted on the computer and displayed on the ranking list. I was in charge of the circuit design and soldering, the others were in charge of the firmware, and developing the application on the computer.  
-  <img src="https://user-images.githubusercontent.com/22733958/126581699-74b34127-dc70-467a-88f1-cf750269b5c0.JPG" width="500">
 
 * **Competitive Programming**  
 I compete in Atcoder using C++, Python. Currently ranked gray.  
 
 * **etc**  
-I built learning remote controls, synthesizers, file servers, inverted pendulums, etc. I posted videos on Youtube (making things, programming, my own songs, etc.)
+I built remote controls, synthesizers, file servers, inverted pendulums, etc. I posted videos on Youtube (making things, programming, my own songs, etc.)
 
 ## Composition
 Posted my own songs on [SoundCloud](https://soundcloud.com/takeyamadesu) and [Youtube](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg).  
 * 「[日体大コールをNCS風にRemixしてみたwww](https://www.youtube.com/watch?v=4RMUM_g9-A8)」has 15,000 views on Youtube.  
-* [![](https://img.youtube.com/vi/4RMUM_g9-A8/0.jpg)](https://www.youtube.com/watch?v=4RMUM_g9-A8)
-* 「[パフェいわしをNCS風にRemixしてみたwww (feat.きりたん)](https://youtu.be/u1lYUsXILzE)」is a EDM arrangement of "ぱふぇいわし"
 * 「[にわとりがNCS風のEDMを歌い出しました](https://youtu.be/6ET-LOTNuJA)」is a EDM using chicken clucking. I also produced the video using blender.
-* 「[セミの鳴き声をEDMにRemixしてみたwww](https://youtu.be/ZytECgMGO9s)」is a EDM with the sound of cicadas. I also created the video using the 3DCG software blender.
 
