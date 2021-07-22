@@ -17,13 +17,13 @@
 I'm a college student who likes technology in general, music, and video editing. I'm good at Arduino, KiCad, Python, LogicProX.
 
 ## Career and Awards
-* `2012-04` Admission Namiki Secondary Education School in Ibaraki Prefecture 
+* `2012-04` Entered Namiki Secondary School in Ibaraki Prefecture 
 * `2016-09` Awarded the Excellence Prize at the 10th High School Science Research Presentation by Chiba University 
-* `2017-03` Awarded RoboCup Junior Soccer Lightweights 2017 Nakatsugawa Open 5th place  
+* `2017-03` Awarded the RoboCup Junior Soccer Lightweights 2017 Nakatsugawa Open 5th place  
 * `2018-03` Graduated from Namiki Secondary School in Ibaraki Prefecture  
 * `2019-04` Entered Aoyama Gakuin University (Department of Electrical and Electronic Engineering, Faculty of Science and Technology)
 * `2019-09` Participated in Fujitsu internship   
-* `2021-06` Aoyama Gakuin University, Faculty of Science and Engineering, Department of Electrical and Electronic Engineering, Faculty of Science and Technology, 3 years    
+* `2021-06` 3rd year undergraduate student of Aoyama Gakuin University (Department of Electrical and Electronic Engineering, Faculty of Science and Technology)    
 
 ## Projects
 * **RoboCupJunior**    
