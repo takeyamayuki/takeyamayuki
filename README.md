@@ -37,7 +37,7 @@ I developped a disembodied mouse by recognizing the skeleton of the hand using a
   <img src="https://user-images.githubusercontent.com/22733958/126581804-1df2e261-cd39-4ccc-a4b5-7aedd054b065.gif" width="500">
 
 * **etc**  
-I built remote controls, synthesizers, file servers, inverted pendulums, etc.   
+I built [inverted pendulums](https://github.com/takeyamayuki/Inverted-pendulum), ,[bluetooth gyro mouse](https://github.com/takeyamayuki/bluetooth_gyro_mouse), [remote controls](https://github.com/takeyamayuki/SmaRemo), [synthesizers](https://youtu.be/jINfBOPpO74), file servers, etc.   
 I post videos on [Youtube](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg) (making things, programming, my own songs, etc.)  
 
 
