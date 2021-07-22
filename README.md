@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeyamayuki)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## Self Introduction
-### 武山侑輝 - Yuki Takeyama  
+### Yuki Takeyama - 武山侑輝   
 I'm a college student who likes technology in general, music, and video editing. (I'm good at Arduino, KiCad, Python).
 
 ## Career and awards
