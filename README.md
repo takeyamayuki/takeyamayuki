@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Self Introduction
 ### 武山侑輝 - Yuki Takeyama  
-I'm a university student who likes technology in general (I'm good at Arduino, KiCad, Python).
+I'm a college student who likes technology in general, music, and video editing. (I'm good at Arduino, KiCad, Python).
 
 ## Career and awards
 * `2012-04` Admission to Ibaraki Prefectural Namiki Secondary Education School
@@ -68,9 +68,9 @@ I compete in Atcoder using C++, Python. Currently ranked gray.
 
 ## Composition
 Posted my own songs on [SoundCloud](https://soundcloud.com/takeyamadesu) and [Youtube](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg).  
-* 「[日体大コールをNCS風にRemixしてみたwww](https://www.youtube.com/watch?v=4RMUM_g9-A8)」がYoutube上で現在1.4万再生  
-* 「[にわとりがNCS風のEDMを歌い出しました](https://youtu.be/6ET-LOTNuJA)」という題名で、ニワトリの鳴き声を用いて、EDMを製作。さらに、映像もblenderを用いて製作。
-* 「[パフェいわしをNCS風にRemixしてみたwww (feat.きりたん)](https://youtu.be/u1lYUsXILzE)」という題名で、ぱふぇいわしをEDMアレンジ
-* 「[セミの鳴き声をEDMにRemixしてみたwww](https://youtu.be/ZytECgMGO9s)」という題名で、蝉の鳴き声でEDMを製作。さらに、映像も３DCGソフトblenderを用いて自主製作。
+* 「[日体大コールをNCS風にRemixしてみたwww](https://www.youtube.com/watch?v=4RMUM_g9-A8)」has 15,000 views on Youtube.  
+* 「[パフェいわしをNCS風にRemixしてみたwww (feat.きりたん)](https://youtu.be/u1lYUsXILzE)」;EDM arrangement of "ぱふぇいわし"
+* 「[にわとりがNCS風のEDMを歌い出しました](https://youtu.be/6ET-LOTNuJA)」;EDM using chicken clucking. I also produced the video using blender.
+* 「[セミの鳴き声をEDMにRemixしてみたwww](https://youtu.be/ZytECgMGO9s)」;EDM with the sound of cicadas. I also created the video using the 3DCG software blender.
 
 
