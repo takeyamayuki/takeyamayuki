@@ -46,15 +46,15 @@ Succeeded in developing a disembodied mouse by recognizing the skeleton of the h
 
 * **Shooting Game**  
 For the school festival, we built a system that you shoot a CdS sensor target with a laser, and the score is counted on the computer and displayed on the ranking list.  
-I was in charge of the circuit design and soldering, the second person was in charge of the firmware, and the third person was in charge of developing the application on the computer.  
+I was in charge of the circuit design and soldering, the others were in charge of the firmware, and developing the application on the computer.  
 
 
 * **Competitive Programming**  
 I compete in Atcoder using C++, Python. Currently ranked gray.  
 
 * **etc**  
-Building learning remote controls, synthesizers, file servers, inverted pendulums, etc.  
-Posting videos on Youtube (making things, programming, posting my own songs, etc.)
+  * Building learning remote controls, synthesizers, file servers, inverted pendulums, etc.  
+  * Posting videos on Youtube (making things, programming, posting my own songs, etc.)
 
 ## Development environment, tools, and equipment
 * Programming languages: C/C++, Python, Markdown, (MATLAB)  
