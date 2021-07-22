@@ -14,7 +14,7 @@
 
 ## Self Introduction
 ### Yuki Takeyama - 武山侑輝   
-I'm a college student who likes technology in general, music, and video editing. (I'm good at Arduino, KiCad, Python).
+I'm a college student who likes technology in general, music, and video editing. (I'm good at Arduino, KiCad, Python, LogicProX)
 
 ## Career and Awards
 * `2012-04` Admission Namiki Secondary Education School in Ibaraki Prefecture 
