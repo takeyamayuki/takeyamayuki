@@ -27,7 +27,7 @@ I'm a college student who likes technology in general, music, and video editing.
 
 ## Projects
 * **RoboCupJunior**    
-When I was a sophomore in high school, we placed fifth in the nation in the RoboCup Junior Soccer Tournament, a soccer match between two fully autonomous robots.　　 
+When I was a sophomore in high school, we placed fifth in the nation in the RoboCup Junior Soccer Tournament, a soccer match between two fully autonomous robots.  
 The team is managed by two people. I mainly design mechanisms using 123Ddesign, and design and develop circuits and boards using KiCad and bsch3v.  
 →[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg), [note](https://note.com/spinach_egg/n/n5938fe6f424b), [GitHub](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_PCB)  
   <img src="https://user-images.githubusercontent.com/22733958/126577854-11db00ce-e076-48a0-ace8-57b6481a140b.JPG" width="500">
