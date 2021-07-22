@@ -37,6 +37,7 @@ Succeeded in developing a disembodied mouse by recognizing the skeleton of the h
 
 * **Shooting Game**  
 For the school festival, we built a system that you shoot a CdS sensor target with a laser, and the score is counted on the computer and displayed on the ranking list. I was in charge of the circuit design and soldering, the others were in charge of the firmware, and developing the application on the computer.  
+ <img src="https://user-images.githubusercontent.com/22733958/126581699-74b34127-dc70-467a-88f1-cf750269b5c0.JPG" width="500">
 
 * **Competitive Programming**  
 I compete in Atcoder using C++, Python. Currently ranked gray.  
