@@ -16,10 +16,10 @@
 ### Yuki Takeyama - 武山侑輝   
 I'm a college student who likes technology in general, music, and video editing. (I'm good at Arduino, KiCad, Python).
 
-## Career and awards
-* `2012-04` Admission to Ibaraki Prefectural Namiki Secondary Education School
+## Career and Awards
+* `2012-04` Admission Namiki Secondary Education School in Ibaraki Prefecture 
 * `2016-09` Awarded the Excellence Prize at the 10th High School Science Research Presentation by Chiba University 
-* `2017-03` RoboCup Junior Soccer Lightweights 2017 Nakatsugawa Open 5th place  
+* `2017-03` Awarded RoboCup Junior Soccer Lightweights 2017 Nakatsugawa Open 5th place  
 * `2018-03` Graduated from Namiki Secondary School in Ibaraki Prefecture  
 * `2019-04` Entered Aoyama Gakuin University (Department of Electrical and Electronic Engineering, Faculty of Science and Technology)
 * `2019-09` Participated in Fujitsu internship   
