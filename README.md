@@ -32,18 +32,14 @@ When I was a sophomore in high school, we placed fifth in the nation in the Robo
   <img src="https://user-images.githubusercontent.com/22733958/126577854-11db00ce-e076-48a0-ace8-57b6481a140b.JPG" width="500">
 
 * **NonMouse**    
-Succeeded in developing a disembodied mouse by recognizing the skeleton of the hand using a web camera.  
+I developped a disembodied mouse by recognizing the skeleton of the hand using a web camera.  
 →[github](https://github.com/takeyamayuki/NonMouse2), [youtube](https://youtu.be/ufvOJUTCF8M)  
   <img src="https://user-images.githubusercontent.com/22733958/126581804-1df2e261-cd39-4ccc-a4b5-7aedd054b065.gif" width="500">
 
-* **Shooting Game**  
-For the school festival, we built a system that you shoot a CdS sensor target with a laser, and the score is counted on the computer and displayed on the ranking list. I was in charge of the circuit design and soldering, the others were in charge of the firmware, and developing the application on the computer.  
-
-* **Competitive Programming**  
-I compete in Atcoder using C++, Python. Currently ranked gray.  
-
 * **etc**  
-I built remote controls, synthesizers, file servers, inverted pendulums, etc. I posted videos on Youtube (making things, programming, my own songs, etc.)
+I built remote controls, synthesizers, file servers, inverted pendulums, etc.   
+I post videos on [Youtube](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg) (making things, programming, my own songs, etc.)  
+
 
 ## Composition
 Posted my own songs on [SoundCloud](https://soundcloud.com/takeyamadesu) and [Youtube](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg).  
