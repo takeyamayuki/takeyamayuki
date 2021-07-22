@@ -52,7 +52,7 @@ I was in charge of the circuit design and soldering, the others were in charge o
 * **Competitive Programming**  
 I compete in Atcoder using C++, Python. Currently ranked gray.  
 
-* **etc**  
+* **etc**
   * Building learning remote controls, synthesizers, file servers, inverted pendulums, etc.  
   * Posting videos on Youtube (making things, programming, posting my own songs, etc.)
 
@@ -61,7 +61,7 @@ I compete in Atcoder using C++, Python. Currently ranked gray.
 * OS: MacOS, Ubuntu, Windows, RaspberrypiOS  
 * Editors: VScode, nano, vim  
 * Tools: Arduino, Git/GitHub, ROS, MPLAB IDE, STM32CubeIDE  
-* PCBCAD: Fritzing, KiCad, PasS, bsch3v  
+* CirsuitsCAD: Fritzing, KiCad, PasS, bsch3v  
 * 3DCAD: Fusion360, (123Ddesign)      
 * Equipment: Stabilized Power Supply, Oscilloscope, 3D Printer
 
