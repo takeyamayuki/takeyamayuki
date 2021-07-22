@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 
 ## プロジェクト
 * **ロボカップジュニア**    
-２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて、高校２年生のときに全国５位。チームは２人で運営。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて回路、基板を設計開発。[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg) に試合動画を公開。  [note](https://note.com/spinach_egg/n/n5938fe6f424b)にロボットの詳細。
+２台の完全自律型ロボット同士でサッカーの試合をする大会であるロボカップジュニアサッカーにおいて、高校２年生のときに全国５位。チームは２人で運営。自分は、主に123Ddesignで機構設計、KiCad,bsch3vを用いて回路、基板を設計開発。→[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg), [note](https://note.com/spinach_egg/n/n5938fe6f424b), [GitHub](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_PCB)
 ![0894](https://user-images.githubusercontent.com/22733958/126577854-11db00ce-e076-48a0-ace8-57b6481a140b.JPG)
 
 
 * **NonMouse**    
-Webカメラを用いて、手の骨格を認識することで実体のないマウスの開発に成功。[github](https://github.com/takeyamayuki/NonMouse2)と[youtube](https://youtu.be/ufvOJUTCF8M)に詳細。  
+Webカメラを用いて、手の骨格を認識することで実体のないマウスの開発に成功。→[github](https://github.com/takeyamayuki/NonMouse2), [youtube](https://youtu.be/ufvOJUTCF8M)  
 
 
 * **シューティングゲーム**  
