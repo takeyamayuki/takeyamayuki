@@ -14,8 +14,9 @@
 
 ## Self Introduction
 ### Yuki Takeyama - 武山侑輝   
-3rd year undergraduate student of Aoyama Gakuin University (Department of Electrical and Electronic Engineering, Faculty of Science and Technology) 
-I'm a college student who likes technology in general, music, and video editing. I'm good at Arduino, KiCad, Python, LogicProX.　　   
+I'm a 3rd year undergraduate student of Aoyama Gakuin University (Department of Electrical and Electronic Engineering, Faculty of Science and Technology)   
+I like technology in general, music, and video editing.  
+I'm good at Arduino, KiCad, Python, LogicProX.  　　   
 
 ## Projects
 * **RoboCupJunior**    
