@@ -11,10 +11,7 @@
 -->
 ![github stats](https://github-readme-stats.vercel.app/api?username=takeyamayuki)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeyamayuki)](https://github.com/anuraghazra/github-readme-stats)  
-
-## Self Introduction
-### Yuki Takeyama - 武山侑輝   
-* I'm a 3rd year undergraduate student of Aoyama Gakuin University (Department of Electrical and Electronic Engineering, Faculty of Science and Technology) I like technology in general, music, and video editing. I'm good at Arduino, KiCad, Python, LogicProX.  　　   
+ 
 
 ## Projects
 * **RoboCupJunior**    
