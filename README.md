@@ -18,12 +18,10 @@ I'm a university student. I'm interested in technologies in general, music, vide
 
 ## Projects
 * **RoboCupJunior**    
-When I was a sophomore in high school, we placed fifth in the nation in the RoboCup Junior Soccer Tournament, a soccer match between two fully autonomous robots. The team is managed by two people. I mainly design mechanisms using 123Ddesign, and design and develop circuits and boards using KiCad and bsch3v.  
 →[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg), [note](https://note.com/spinach_egg/n/n5938fe6f424b), [github](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_PCB)  
   <img src="https://user-images.githubusercontent.com/22733958/126577854-11db00ce-e076-48a0-ace8-57b6481a140b.JPG" width="500">
 
 * **NonMouse**    
-I developped a insubstantial mouse by recognizing the hand using a web camera.  
 →[github](https://github.com/takeyamayuki/NonMouse2), [youtube](https://youtu.be/ufvOJUTCF8M)  
   <img src="https://user-images.githubusercontent.com/22733958/126581804-1df2e261-cd39-4ccc-a4b5-7aedd054b065.gif" width="500">
 
