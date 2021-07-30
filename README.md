@@ -8,12 +8,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 # Yuki TAKEYAMA
-![github stats](https://github-readme-stats.vercel.app/api?username=takeyamayuki)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeyamayuki)](https://github.com/anuraghazra/github-readme-stats)  
 
 I'm a university student. I'm interested in technologies in general, music, video editing. I'm good at Arduino, RaspberryPi, Pyhton, KiCad, LogicProX.  
+-->
+
+![github stats](https://github-readme-stats.vercel.app/api?username=takeyamayuki)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeyamayuki)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 ## Projects
