@@ -8,31 +8,17 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-# Yuki TAKEYAMA
-
-I'm a university student. I'm interested in technologies in general, music, video editing. I'm good at Arduino, RaspberryPi, Pyhton, KiCad, LogicProX.  
 -->
 
+
+#### Yuki TAKEYAMA
 ![github stats](https://github-readme-stats.vercel.app/api?username=takeyamayuki)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeyamayuki)](https://github.com/anuraghazra/github-readme-stats)  
 
-
-## Projects
-* **RoboCupJunior**    
-→[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg), [note](https://note.com/spinach_egg/n/n5938fe6f424b), [github](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_PCB)  
-  <img src="https://user-images.githubusercontent.com/22733958/126577854-11db00ce-e076-48a0-ace8-57b6481a140b.JPG" width="500">
-
-* **NonMouse**    
-→[github](https://github.com/takeyamayuki/NonMouse2), [youtube](https://youtu.be/ufvOJUTCF8M)  
-  <img src="https://user-images.githubusercontent.com/22733958/126581804-1df2e261-cd39-4ccc-a4b5-7aedd054b065.gif" width="500">
-
-* **etc**  
-I built [inverted pendulums](https://github.com/takeyamayuki/Inverted-pendulum), ,[bluetooth gyro mouse](https://github.com/takeyamayuki/bluetooth_gyro_mouse), [remote controls](https://github.com/takeyamayuki/SmaRemo), [synthesizers](https://youtu.be/jINfBOPpO74), file servers, etc.   
-I post videos on [Youtube](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg) (making things, programming, my own songs, etc.)  
-
-
-## Composition
-Posted my own songs on [SoundCloud](https://soundcloud.com/takeyamadesu) and [Youtube](https://www.youtube.com/channel/UC2Ijyce-DOkMKqagTPDZleg).  
-* 「[日体大コールをNCS風にRemixしてみたwww](https://www.youtube.com/watch?v=4RMUM_g9-A8)」has 15,000 views on Youtube.  
-* 「[にわとりがNCS風のEDMを歌い出しました](https://youtu.be/6ET-LOTNuJA)」is a EDM using chicken clucking. I also produced the video using blender.
+* 🔭 I'm a university student. 
+* 🌱 I'm interested in technology(Arduino, RaspberryPi, Python, OS), music, video editing.  
+* ⚡ Major Projects
+  * RoboCupJunior→[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg), [note](https://note.com/spinach_egg/n/n5938fe6f424b), [github](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_PCB)  
+  * NonMouse→[github](https://github.com/takeyamayuki/NonMouse2), [youtube](https://youtu.be/ufvOJUTCF8M)  
+  * My song(remix of nittaidai call)→[youtube(15,000 views)](https://www.youtube.com/watch?v=4RMUM_g9-A8), [github](https://github.com/takeyamayuki/NittaidaiEDM_logicproX)
 
