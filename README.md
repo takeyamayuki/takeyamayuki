@@ -8,11 +8,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=takeyamayuki)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeyamayuki)](https://github.com/anuraghazra/github-readme-stats)  
-
+-->
 * 🔭 I'm a university student. 
 * 🌱 I'm interested in technology(Arduino, RaspberryPi, Python, OS), music, video editing.  
 * ⚡ Major Projects
