@@ -14,9 +14,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeyamayuki)](https://github.com/anuraghazra/github-readme-stats)  
 -->
 * 🔭 I'm a university student. 
-* 🌱 I'm interested in technology(Arduino, RaspberryPi, Python, OS), music, video editing.  
+* 🌱 Interests : Robotics, OS, Python, Music, Video editing.  
 * ⚡ Major Projects
-  * RoboCupJunior→[youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg), [note](https://note.com/spinach_egg/n/n5938fe6f424b), [github](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_PCB)  
-  * NonMouse→[github](https://github.com/takeyamayuki/NonMouse2), [youtube](https://youtu.be/ufvOJUTCF8M)  
-  * My song(remix of nittaidai call)→[youtube(15,000 views)](https://www.youtube.com/watch?v=4RMUM_g9-A8), [github](https://github.com/takeyamayuki/NittaidaiEDM_logicproX)
+  * RoboCupJunior → [youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg), [note](https://note.com/spinach_egg/n/n5938fe6f424b), [github](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_PCB)  
+  * NonMouse → [github](https://github.com/takeyamayuki/NonMouse2), [youtube](https://youtu.be/ufvOJUTCF8M)  
+  * My song - Remix of nittaidai call → [youtube](https://www.youtube.com/watch?v=4RMUM_g9-A8), [github](https://github.com/takeyamayuki/NittaidaiEDM_logicproX)
 
