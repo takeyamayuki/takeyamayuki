@@ -18,7 +18,7 @@
 🌱 Interests : Robotics, OS, Python, Music.  
 
 ⚡ Major Projects
-* RoboCupJunior → [youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg), [note](https://note.com/spinach_egg/n/n5938fe6f424b), [github](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_PCB)    
-* NonMouse → [github](https://github.com/takeyamayuki/NonMouse2), [youtube](https://youtu.be/ufvOJUTCF8M)    
-* My song - Remix of nittaidai call → [youtube](https://www.youtube.com/watch?v=4RMUM_g9-A8), [github](https://github.com/takeyamayuki/NittaidaiEDM_logicproX)
+* RoboCupJunior → [github](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_PCB), [note](https://note.com/spinach_egg/n/n5938fe6f424b), [youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg)    
+* NonMouse → [github](https://github.com/takeyamayuki/NonMouse2), [zenn](https://zenn.dev/ninzin/articles/94b05fdb9edf53), [youtube](https://youtu.be/ufvOJUTCF8M), 
+* My song - Remix of nittaidai call → [github](https://github.com/takeyamayuki/NittaidaiEDM_logicproX), [youtube](https://www.youtube.com/watch?v=4RMUM_g9-A8)
 
