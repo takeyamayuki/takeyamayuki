@@ -15,7 +15,7 @@
 -->
 🔭 I'm a university student.  
 
-🌱 Interests : Robotics, OS, Python, Music.  
+🌱 Interests : Robotics, CPU, OS, Python, Music.  
 
 ⚡ Major Projects
 * RoboCupJunior → [github](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_PCB), [note](https://note.com/spinach_egg/n/n5938fe6f424b), [youtube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg)    
