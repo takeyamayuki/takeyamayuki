@@ -28,7 +28,7 @@
   - NonMouse → [GitHub](https://github.com/takeyamayuki/NonMouse2), [Article](https://zenn.dev/ninzin/articles/94b05fdb9edf53), [YouTube](https://youtu.be/SsMxDPGBMD0)
 
 ### ✍ For more information
-  - [Potfolio](https://takeyamayuki.github.io/about/)
+  - [Portfolio](https://takeyamayuki.github.io/about/)
 <!--
 * My song - Remix of nittaidai call → [github](https://github.com/takeyamayuki/NittaidaiEDM_logicproX), [youtube](https://www.youtube.com/watch?v=4RMUM_g9-A8)
 -->
