@@ -17,8 +17,8 @@
 -->
 
 ### 👨 Me
-  - A senior undergraduate student
-  - Majoring in electrical and electronic engineering
+  - First year of master's program
+  - Majoring in computer science
 
 ### 🌱 Interests
   - All about technology
