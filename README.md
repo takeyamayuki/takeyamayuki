@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-**Any Pull Requests and Issues are welcome!🤗**
+**Any Pull Requests and Issues are welcome! 🤗**
 
 <!--
 - 🔭 I’m currently working on ...
@@ -17,19 +17,14 @@
 -->
 
 ### 👨 Me
-  - First year of master's program
-  - Majoring in computer science
+  - First year of master's program majoring in computer science
 
 ### 🌱 Interests
-  - All about technology
+  - HCI, Robotics, Computer Vision
   - Music
-  - Baseball  
-  
-<!--
-### 💁 Major Projects
-  - RoboCupJunior → [GitHub](https://github.com/takeyamayuki/RCJ_Japan_Soccer2017_PCB), [Article](https://note.com/spinach_egg/n/n5938fe6f424b), [YouTube](https://www.youtube.com/playlist?list=PLkEBRGnKNUILFJv4zKvQkQi69NoT-_FYg)    
-  - NonMouse → [GitHub](https://github.com/takeyamayuki/NonMouse2), [Article](https://zenn.dev/ninzin/articles/94b05fdb9edf53), [YouTube](https://youtu.be/SsMxDPGBMD0)
--->
+  - Baseball
 
 ### ✍ For more information
   - [Portfolio](https://takeyamayuki.github.io/about/)
+
+![](./profile-3d-contrib/profile-night-green.svg)
