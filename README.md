@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=takeyamayuki) -->
+
 ### 👨 Me
   - First year of master's program majoring in computer science
 
@@ -23,10 +23,10 @@
   - Baseball
 
 ### ✍ For more information
-  - [Portfolio](https://takeyamayuki.github.io/about/)
+  - [Portfolio](https://takeyamayuki.github.io/aboutme/)
 
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeyamayuki)](https://github.com/anuraghazra/github-readme-stats)   -->
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=takeyamayuki)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeyamayuki)](https://github.com/anuraghazra/github-readme-stats)   -->
 
