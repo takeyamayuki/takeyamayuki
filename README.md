@@ -15,7 +15,7 @@
  -->
 
 ### 👨 Me
-  - 2nd year of master's program majoring in computer science
+  - A graduate student majoring in computer science.
 
 ### 🌱 Interests
   - HCI, Robotics, Computer Vision
