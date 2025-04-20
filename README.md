@@ -15,7 +15,7 @@
  -->
 
 ### 👨 Me
-  - A graduate student majoring in computer science.
+  - A Product Manager at IT company
 
 ### 🌱 Interests
   - HCI, Robotics, Computer Vision
